@@ -12,7 +12,7 @@ public class Hehehe
     {
         for (int i=0; i<10; i++)
         {
-            System.out.print("he.");
+            System.out.print("CONFLICT MWHAHA");
         }
 
    
